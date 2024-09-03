@@ -1,0 +1,6 @@
+#183583 //BLUE
+#10b981 // LIME
+#ecfdc5 // white
+#333f51 //gray
+#f3f735 // yellow
+#18835f // GREEN
